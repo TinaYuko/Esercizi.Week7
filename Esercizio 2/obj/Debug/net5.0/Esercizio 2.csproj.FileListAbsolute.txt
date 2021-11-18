@@ -1,0 +1,22 @@
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\Esercizio 2.exe
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\Esercizio 2.deps.json
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\Esercizio 2.runtimeconfig.json
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\Esercizio 2.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\Esercizio 2.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\ref\Esercizio 2.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\Esercizio 2.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.AssemblyInfo.cs
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\ref\Esercizio 2.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week7\Esercizio 2\obj\Debug\net5.0\Esercizio 2.genruntimeconfig.cache
