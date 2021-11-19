@@ -1,0 +1,16 @@
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\bin\Debug\net5.0\Eccezioni.exe
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\bin\Debug\net5.0\Eccezioni.deps.json
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\bin\Debug\net5.0\Eccezioni.runtimeconfig.json
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\bin\Debug\net5.0\Eccezioni.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\bin\Debug\net5.0\Eccezioni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\bin\Debug\net5.0\ref\Eccezioni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\bin\Debug\net5.0\Eccezioni.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.AssemblyInfo.cs
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\ref\Eccezioni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week7\Eccezioni\Eccezioni\obj\Debug\net5.0\Eccezioni.genruntimeconfig.cache
